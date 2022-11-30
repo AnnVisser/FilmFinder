@@ -1,4 +1,4 @@
-const movies = [
+const superMovies = [
 	{
 		title: "X-Men: Days of Future Past",
 		year: "2014",
