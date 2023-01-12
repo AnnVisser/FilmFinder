@@ -1,0 +1,35 @@
+* {
+	padding: 0px;
+	margin: 0px;
+	box-sizing: border-box;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+	background-color: black;
+	color: white;
+	text-align: center;
+	margin: 20px;
+}
+
+// Filterbuttons
+
+nav {
+	display: flex;
+	justify-content: space-evenly;
+	padding: 10px;
+	margin: 25px;
+}
+
+// Movie-posters
+
+#film-box {
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+	list-style: none;
+}
+
+li {
+	padding: 10px;
+}
